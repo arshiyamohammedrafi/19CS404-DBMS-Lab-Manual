@@ -1,9 +1,5 @@
 # EX-01: ER Diagram Workshop – Submission Template
 
-```
-NAME: RUBASRI R
-REG.NO: 212224240139
-```
 
 ## Objective
 To understand and apply ER modeling concepts by creating ER diagrams for real-world applications.
